@@ -1,0 +1,7 @@
+1- Set Dynamic Data To Info Section
+{
+    name,
+    worng times
+}
+
+2- Random The Blocks 
